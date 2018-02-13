@@ -1,0 +1,22 @@
+{
+  "name": "org-app",
+  "version": "1.0.0",
+  "description": "JavaScript application",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smbolt/org-app.git"
+  },
+  "author": "Steve Bolt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smbolt/org-app/issues"
+  },
+  "homepage": "https://github.com/smbolt/org-app#readme",
+  "dependencies": {
+    "org-gs": "^1.0.3"
+  }
+}
